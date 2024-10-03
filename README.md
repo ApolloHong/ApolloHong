@@ -10,12 +10,11 @@ My personal website: apollohong.github.io
 
 Here are some ideas to get you started:
 
+- 😼 I'm an undergraduate @ SJTU-SPEIT.
 - 🔭 I’m currently working with Prof.Gong, Prof.Gi and Prof.Lu.
 - 🌱 I’m currently learning AI for Science and Engineering.
 - 👯 I’m looking to collaborate on Academic.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Working languages: Mandarin, English, French. Feel free to ask me anything about SJTU-SPEIT or fitness.
 - 📫 How to reach me: Wechat: Hong18860376438
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 

@@ -35,16 +35,6 @@
 
   <br /> <br />
 
-  <!-- 社交链接：修复了之前的对齐问题 -->
-  <a href="mailto:lizhan.hong@polytechnique.edu">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lizhan-hong/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://apollohong.github.io">
-    <img src="https://img.shields.io/badge/Website-Portfolio-1a1a1a?style=flat-square&logo=firefox&logoColor=white" />
-  </a>
 </div>
 
 <br />

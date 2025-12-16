@@ -19,7 +19,7 @@
 
 <div align="center">
   <!-- 动态波浪背景，加上了打字机效果 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=260&section=header&text=Hello,%20I'm%20Apollo%20Hong&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Quant%20Researcher%20|%20X2025%20|%20SJTU&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=260&section=header&text=Hello,%20I'm%20Apollo%20Hong&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Quant%20Researcher%20|%20X2024%20|%20SJTU&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
